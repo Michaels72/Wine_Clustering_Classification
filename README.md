@@ -8,7 +8,8 @@ With the Wine Clustering dataset we will use our machine learning models to help
 
 The standard scaler and normalized wine1 set shows a much better result.
 
-![](image/output_93_0.png)
+
+![](image/output_60_1.png)
 
 
 The model with the best score is Gradient Boosting Classifier with a socre of 97.2222%
@@ -17,4 +18,5 @@ The model with the best score is Gradient Boosting Classifier with a socre of 97
 The most used features utilized by the Gradient Boosting Classifier are Flavanoids, Proline and Color.
 
 
-![](image/output_60_1.png)
+![](image/output_93_0.png)
+
